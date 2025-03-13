@@ -1,5 +1,4 @@
 lowest_number = None
-
 while True:
     user_input = input("Enter a number: ")
     try:
@@ -11,4 +10,4 @@ while True:
     if lowest_number is None or number < lowest_number:
         lowest_number = number
 
-print("The lowest number entered is:", lowest_number)
+print(lowest_number)
