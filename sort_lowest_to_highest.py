@@ -12,4 +12,4 @@ while True:
 # Sort the list from lowest to highest
 numbers.sort()
 
-print("Numbers from lowest to highest:", numbers)
+print( numbers)
